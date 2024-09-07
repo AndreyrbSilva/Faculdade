@@ -1,0 +1,29 @@
+nome = "Dree"
+idade = 18
+altura = 1.80
+---------------
+type(idade)
+type(nome)
+type(altura)
+---------------
+idade = 10
+idade2 = 40
+---------------
+idade + idade2
+---------------
+soma = idade + idade2
+---------------
+idadeusu = int(input("Digite sua idade:")
+---------------
+soma = idade + idade2
+sub = idade - idade2
+mult = idade * idade2
+div = idade / idade2
+div_int = idade // idade2
+div_rest = idade % idade2
+---------------
+###Por atribuição 
+---------------
+soma_atri = idade += idade2
+sub_atri = idade -= idade2
+multi_atri = idade *= idade2
