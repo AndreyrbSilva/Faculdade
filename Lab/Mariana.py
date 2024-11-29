@@ -6,7 +6,7 @@
 #2-for com diferenciação de singular e plural;
 #3-estrutura completa com a complexidade do texto "é n", "é n+1".
 # -------------------------------------- #
-# Loop para contar de 1 até 10
+
 # Lista de contagens de 1 a 10
 conta = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 
